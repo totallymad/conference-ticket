@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background: url("/background-desktop.png");
+  font-family: "Inconsolata", serif;
+}
+
+.icon {
+  background-image: url("/icon-upload.svg"); /* путь к вашей иконке */
+}
